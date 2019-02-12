@@ -9,9 +9,9 @@
       "command": "gcc",
       "args": [
         "-g",
-        "vc_sort_params.c",
+        "vc_split_whitespaces.c",
         "-o",
-        "vc_sort_params"
+        "vc_split_whitespaces"
       ],
       "problemMatcher": "$gcc"
     }

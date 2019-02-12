@@ -9,7 +9,7 @@
       "type": "cppdbg",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/vc_sort_params",
+      "program": "${workspaceFolder}/vc_split_whitespaces",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
