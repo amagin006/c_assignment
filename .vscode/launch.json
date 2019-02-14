@@ -9,7 +9,7 @@
       "type": "cppdbg",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/vc_print_words",
+      "program": "${workspaceFolder}/main.c",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",

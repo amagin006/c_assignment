@@ -9,9 +9,9 @@
       "command": "gcc",
       "args": [
         "-g",
-        "vc_print_words.c",
+        "main.c",
         "-o",
-        "vc_print_words"
+        "main"
       ],
       "problemMatcher": "$gcc"
     }
